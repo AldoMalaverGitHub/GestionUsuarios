@@ -1,0 +1,6 @@
+/target
+*target
+target/*
+hibernate.reveng.xml
+.classpath
+.project
