@@ -31,10 +31,10 @@ public class GestionUsuariosApplication implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		
-		UsuarioNegocioDTO dto = new UsuarioNegocioDTO();
-		dto.setNombreUsuario("amalaver1");
-		dto.setUsuarioCreacion("root");
-		usuarioNegocio.guardarUsuario(dto);
+		//UsuarioNegocioDTO dto = new UsuarioNegocioDTO();
+		//dto.setNombreUsuario("amalaver1");
+		//dto.setUsuarioCreacion("root");
+		//usuarioNegocio.guardarUsuario(dto);
 		//System.out.println("ID GENERADO:::" + usuario.getId());
 		
 	}
